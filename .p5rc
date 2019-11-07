@@ -1,0 +1,11 @@
+{
+  "name": "P5_Projects",
+  "projects": [
+    "Attractors",
+    "RunningWild",
+    "3D",
+    "Maze",
+    "Fire",
+    "LifeSimulator"
+  ]
+}

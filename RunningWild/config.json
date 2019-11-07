@@ -1,0 +1,24 @@
+{
+    "config": [
+      {
+        "G": 120,
+        "VEL_LIMIT": 12,
+        "DIST_LIMIT": 20,
+        "MAX_ACC": 30,
+        "radius": 280,
+        "nbAttractors": 1,
+        "nbParticles": 500,
+        "showAttractors": false
+      },
+      {
+        "G": 120,
+        "VEL_LIMIT": 12,
+        "DIST_LIMIT": 20,
+        "MAX_ACC": 30,
+        "radius": 280,
+        "nbAttractors": 1,
+        "nbParticles": 1000,
+        "showAttractors": true
+      }
+    ]
+  }
