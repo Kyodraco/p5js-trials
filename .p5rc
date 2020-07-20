@@ -7,6 +7,7 @@
     "Maze",
     "Fire",
     "LifeSimulator",
-    "Gravity"
+    "Gravity",
+    "MarchingSquares"
   ]
 }
