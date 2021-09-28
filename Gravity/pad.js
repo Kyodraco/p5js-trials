@@ -1,4 +1,4 @@
-function Pad(startX, y, color, price, spawnSpeed) {
+function Pad(startX, y, color, price, spawnSpeed, padSpeed) {
   this.x = startX;
   this.y = y;
   this.color = color;
@@ -6,7 +6,7 @@ function Pad(startX, y, color, price, spawnSpeed) {
   this.spawnSpeed = spawnSpeed;
 
   this.direction = 1;
-  this.speed = 3;
+  this.speed = padSpeed;
   this.w = 30;
   this.h = 15;
   this.timer = 0;

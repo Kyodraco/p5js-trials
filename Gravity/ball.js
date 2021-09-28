@@ -17,6 +17,7 @@ function Ball(x, y, r, price, color) {
   this.die = function(mult){
       score += this.price * mult;
       console.log(score);
+      // crackSound.play();
       this.removeFromWorld();
   }
 }
